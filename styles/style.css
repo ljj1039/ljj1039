@@ -1,0 +1,50 @@
+html {
+  font-size: 14px;
+  font-family: 'Noto Serif KR', serif;
+}
+
+h1 {
+  font-size: xx-large;
+  text-align: center;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  width: 100px;
+}
+
+p,li {
+  font-size: large;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html {
+  background-color: #b4d1ec;
+}
+
+body {
+  width: 600px;
+  margin: 20px 20px 20px 20px;
+  background-color: #ffba5b;
+  padding: 0px 20px 20px 20px;
+  border: 10px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 1px 0;
+  color: #00539f;
+  text-shadow: 1px 1px 2px black;
+}
+
+#imglist {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 300px;
+}
